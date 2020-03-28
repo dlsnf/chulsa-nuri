@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  ChulsaGo
+
+  Created by nuri Lee on 2017. 11. 21..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+"app" = "ChulsaNuri";
+"place search" = "Search for places";
+"address search" = "Address search";
+"waiting" = "Please try again in a few minutes.";
+"network error" = "A network connection is required.";
+"done" = "Done";
+"alert" = "Notice";
+"next" = "Next";
+"need login" = "Login is required.";
+"cancel" = "Cancel";
+"login" = "Login";
+"need user location" = "Allow access to user location";
+"setting info location" = "Settings - Privacy - Location Services Can be set.";
+"setting" = "Setting";
+"like" = "Like";
+"gae" = "";
+"comment" = "Com";
+"fail login" = "Login failed";
+"input email" = "Please enter your e-mail address.";
+"not email type" = "This is not an email format.";
+"input password" = "Please enter your password.";
+"input password eight length" = "Please enter 8 or more passwords.";
+"sign up" = "Sign Up";
+"fail sign up" = "Failed Sign Up";
+"welcome" = "Welcome.";
+"welcome user" = "You are welcome.";
+"success" = "Success";
+"user block" = "Block user";
+"change nickname" = "Change Nickname";
+"change profile image" = "Change profile image";
+"user block success" = "User blocked";
+"unblock" = "Unblock";
+"unblock?" = "Are you sure you want to unblock it?";
+"error" = "Error";
+"not character" = "Spaces and special characters are not allowed.";
+"nickname ten length" = "Nickname can not be longer than 10 characters.";
+"input body" = "Please enter your details.";
+"completed" = "Completed";
+"report success" = "Your report has been accepted.";
+"open applemap" = "Open in Apple map";
+"open googlemap" = "Open in Google map";
+"delete" = "Delete";
+"delete post" = "Delete post";
+"delete?" = "Are you sure you want to delete it?";
+"delete comment" = "Delete comment";
+"delete success" = "Delete success";
+"delete post success" = "Your post has been deleted.";
+"delete comment success" = "Your comment has been deleted.";
+"report" = "Report";
+"another map" = "Open in other Maps apps";
+"input comment" = "Enter your comment ...";
+"first press like" = "Please click on the first liked.";
+"detail" = "Detail View";
+"first comment" = "Be the first to leave a comment!";
+"input body..." = "Please enter your content ...";
+"explanation" = "Explanation";
+"complete" = "Complete";
+"select image" = "Select Image";
+"comfirm" = "Comfirm";
+"checkin" = "Check In";
+"upload..." = "Upload...";
+"select image." = "Please select a image.";
+"cancel checkin" = "Are you sure you want to cancel Check In?";
+"exit" = "Exit";
+"not user location" = "User location inaccessible";
+"not find user location" = "We could not find your location.";
+"latitude" = "Latitude";
+"longitude" = "Longitude";
+
+
+/* Pin Type */
+"chulsa" = "Photo Zone";
+"food" = "Food Zone";
+
+
+/* Rating */
+"egg" = "Egg";
+"chick" = "Chick";
+"big chick" = "Big Chick";
+"chicken" = "Chicken";
+"chicken ribs" = "Chicken Ribs";
+"samgyetang" = "Samgyetang";
+"fried chicken" = "Fried Chicken";
+"seasoned chicken" = "Seasoned Chicken";
+"god of the chicken" = "God Of The Chicken";
+
+
+
+
+
+
+
+

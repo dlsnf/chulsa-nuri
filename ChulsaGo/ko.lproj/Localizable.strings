@@ -1,0 +1,101 @@
+/* 
+  Localizable.strings
+  ChulsaGo
+
+  Created by nuri Lee on 2017. 11. 21..
+  Copyright © 2017년 nuri lee. All rights reserved.
+*/
+
+
+"app" = "출사누리";
+"place search" = "장소 검색";
+"address search" = "주소 검색";
+"waiting" = "잠시 후 다시 시도해 주세요.";
+"network error" = "네트워크 연결이 필요합니다.";
+"done" = "확인";
+"alert" = "알림";
+"next" = "다음";
+"need login" = "로그인이 필요합니다.";
+"cancel" = "취소";
+"login" = "로그인";
+"need user location" = "사용자 위치 접근 허용 필요";
+"setting info location" = "설정 - 개인 정보 보호 - 위치 서비스 에서 설정할 수 있습니다.";
+"setting" = "설정";
+"like" = "좋아요";
+"gae" = "개";
+"comment" = "댓글";
+"fail login" = "로그인 실패";
+"input email" = "메일주소를 입력해 주세요.";
+"not email type" = "이메일 형식이 아닙니다.";
+"input password" = "패스워드를 입력해 주세요.";
+"input password eight length" = "패스워드를 8자리 이상 입력해 주세요.";
+"sign up" = "회원가입";
+"fail sign up" = "회원가입 실패";
+"welcome" = "님 환영합니다.";
+"welcome user" = "회원님 환영합니다.";
+"success" = "성공";
+"user block" = "사용자 차단";
+"change nickname" = "닉네임 변경";
+"change profile image" = "프로필 사진 변경";
+"user block success" = "사용자가 차단되었습니다.";
+"unblock" = "차단 해제";
+"unblock?" = "차단 해제하시겠습니까?";
+"error" = "에러";
+"not character" = "띄어쓰기 및 특수문자는 사용할 수 없습니다.";
+"nickname ten length" = "닉네임은 10자이상 설정할 수 없습니다.";
+"input body" = "내용을 입력해 주세요.";
+"completed" = "접수 완료";
+"report success" = "신고 접수가 완료되었습니다.";
+"open applemap" = "Apple map에서 열기";
+"open googlemap" = "Google map에서 열기";
+"delete" = "삭제";
+"delete post" = "게시글 삭제";
+"delete?" = "정말로 삭제 하시겠습니까?";
+"delete comment" = "댓글 삭제";
+"delete success" = "삭제 완료";
+"delete post success" = "게시글이 삭제되었습니다.";
+"delete comment success" = "댓글이 삭제되었습니다.";
+"report" = "신고";
+"another map" = "다른 지도앱에서 열기";
+"input comment" = "댓글을 입력하세요...";
+"first press like" = "가장 먼저 좋아요를 눌러보세요.";
+"detail" = "상세보기";
+"first comment" = "가장 먼저 댓글을 남겨보세요!";
+"input body..." = "내용을 입력하세요...";
+"explanation" = "설명";
+"complete" = "완료";
+"select image" = "이미지 선택";
+"comfirm" = "등록";
+"checkin" = "체크인";
+"upload..." = "업로드...";
+"select image." = "사진을 선택해 주세요.";
+"cancel checkin" = "체크인을 취소하시겠습니까?";
+"exit" = "나가기";
+"not user location" = "사용자 위치 접근 불가";
+"not find user location" = "사용자 위치를 찾을 수 없습니다.";
+"latitude" = "위도";
+"longitude" = "경도";
+
+/* Pin Type */
+"chulsa" = "출사지";
+"food" = "맛집";
+
+
+
+
+/* Rating */
+"egg" = "계란";
+"chick" = "병아리";
+"big chick" = "큰병아리";
+"chicken" = "닭";
+"chicken ribs" = "닭갈비";
+"samgyetang" = "삼계탕";
+"fried chicken" = "후라이드치킨";
+"seasoned chicken" = "양념치킨";
+"god of the chicken" = "치느님";
+
+
+
+
+
+

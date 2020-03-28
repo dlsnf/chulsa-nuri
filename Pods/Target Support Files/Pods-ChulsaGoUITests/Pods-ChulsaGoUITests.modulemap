@@ -1,0 +1,6 @@
+framework module Pods_ChulsaGoUITests {
+  umbrella header "Pods-ChulsaGoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
